@@ -1,4 +1,4 @@
 blank-project-spring
 ====================
 
-Blank Project Spring 3 + Hibernate 3 + Tiles 3
+Projecto Vacío con la configuración para Spring + Hibernate + Validator + Messages.properties
